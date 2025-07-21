@@ -50,7 +50,7 @@ export const services = [
 
 export const features = [
   {
-    img: tour1,
+    img: tour2,
     title: "Tibet Adventure",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit,Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.",
